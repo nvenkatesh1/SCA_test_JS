@@ -73,7 +73,7 @@
     "devtron": "^1.2.1",
     "electron": "2.0.1",
     "electron-devtools-installer": "^2.2.4",
-    "electron-packager": "^7.3.0",
+    "electron-packager": "^13.0.0",
     "electron-rebuild": "^1.7.3",
     "eslint": "^2.13.1",
     "eslint-config-airbnb": "^9.0.1",
