@@ -124,7 +124,8 @@
     "react-modal": "^2.2.2",
     "react-split-pane": "^0.1.65",
     "rxjs": "^5.4.2",
-    "source-map-support": "^0.4.2"
+    "source-map-support": "^0.4.2",
+    "karma": "^2.0.0"
     },
   "devEngines": {
     "node": "4.x || 5.x || 6.x || 7.x || 8.x",
