@@ -7,7 +7,7 @@ import ReactDOM from 'react-dom'
 const fs = require('fs')
 const readFile = Promise.promisify(fs.readFile)
 const fileAccess = Promise.promisify(fs.access)
-const Password = 'test123'
+const setstorage = 'test123'
 const storage = require('electron-json-storage')
 const getFromStorage = Promise.promisify(storage.get)
 const setToStorage = Promise.promisify(storage.set)
