@@ -1,6 +1,7 @@
 {
   "scanSettings": {
     "configMode": "LOCAL",
+    "enableIaC": true",
     "configExternalURL": "",
     "projectToken": "",
     "baseBranches": []
